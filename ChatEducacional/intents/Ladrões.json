@@ -1,0 +1,80 @@
+{
+  "id": "d93f6566-3ad8-4d6d-a299-929b2951a927",
+  "name": "Ladrões",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c37a0b64-ba4d-4118-aa7c-32b1758fe696",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Ladrões (2025)\n\nSinopse: Thriller de ação sobre um grupo de criminosos especializados em grandes assaltos, perseguidos pela polícia internacional.\n\nElenco: Liam Neeson, Kate Beckinsale, Boyd Holbrook.\n\nCaracterísticas: Ação, suspense, drama policial; duração estimada em 1h55."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Sessões disponíveis - Hoje:\n\nUCI Manauara Shopping: 14h00, 16h30, 19h00, 21h30\n\nCinépolis Shopping Ponta Negra: 14h30, 17h00, 20h00\n\nMillennium Shopping: 14h30, 17h00, 19h30, 22h00\n\nUCI Sumaúma Park Shopping: 14h00, 16h30, 19h00, 21h30"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para retornar à seção de filmes em cartaz, digite a palavra filme."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para voltar ao menu principal, digite menu."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

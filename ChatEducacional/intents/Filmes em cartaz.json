@@ -1,0 +1,60 @@
+{
+  "id": "83da6026-70f3-4274-85c6-d0b969169991",
+  "name": "Filmes em cartaz",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "60c50ba3-c946-4222-abad-bdfb7f1851ff",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "🎬 Estes são alguns dos filmes em cartaz em Manaus hoje:\n\n- Quarteto Fantástico: Primeiros Passos  \n- Faça Ela Voltar  \n- Uma Sexta-Feira Mais Louca Ainda  \n- A Hora do Mal  \n- Os Caras Malvados 2  \n- Interestelar (Relançamento)  \n- Ladrões  \n- Os Roses: Até Que a Morte Os Separe\n\n📍 Disponíveis em: Kinoplex Amazonas, UCI Sumaúma, Cinépolis Ponta Negra, Cinépolis Millennium, Centerplex Grande Circular."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para mais informações, digite o nome do filme."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

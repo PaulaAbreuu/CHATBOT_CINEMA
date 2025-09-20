@@ -1,0 +1,168 @@
+{
+  "id": "61f78342-8be1-4378-996c-22de072ef2ed",
+  "name": "Cinemas próximos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5233660a-9799-47de-a175-2a9d727dd2af",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "634d1782-8199-4720-94fe-9328370febea",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "63bdb718-d322-404e-88d0-57a39f2cc9bc",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "📍 Cinemas localizados em Manaus.\n\nUse essas informações para identificar o cinema mais próximo de você."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "1. UCI Manauara Shopping\n\nEndereço: Av. Mário Ypiranga, 1300, Manaus, AM, 69053-165\n\nHorário de funcionamento: Segunda a Sábado: 10h00 às 22h00 | Domingo e Feriados: 12h00 às 22h00"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "2. UCI Sumaúma Park Shopping\n\nEndereço: Av. Noel Nutels, 1762, Manaus, AM, 69095-000\n\nHorário de funcionamento: Segunda a Sábado: 10h00 às 22h00 | Domingo e Feriados: 12h00 às 22h00"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "3. Cinépolis Manaus Plaza Shopping\n\nEndereço: Av. Djalma Batista, 1661, Manaus, AM\n\nHorário de funcionamento: Segunda a Sábado: 10h00 às 22h00 | Domingo e Feriados: 12h00 às 22h00"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "4. Cinépolis Shopping Ponta Negra\n\nEndereço: Av. Coronel Teixeira, 5705, Manaus, AM, 69037-000\n\nHorário de funcionamento: Segunda a Sábado: 10h00 às 22h00 | Domingo e Feriados: 12h00 às 22h00"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "5. Cinépolis Millennium Shopping\n\nEndereço: Av. Djalma Batista, 1661, Manaus, AM\n\nHorário de funcionamento: Segunda a Sábado: 10h00 às 22h00 | Domingo e Feriados: 12h00 às 22h00"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "6. Kinoplex Amazonas Shopping\n\nEndereço: Av. Djalma Batista, 482, Manaus, AM, 69050-010\n\nHorário de funcionamento: Segunda a Sábado: 10h00 às 22h00 | Domingo e Feriados: 12h00 às 22h00"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "7. Centerplex Grande Circular\n\nEndereço: Shopping Grande Circular, Av. Autaz Mirim, 6250, Manaus, AM, 69085-000\n\nHorário de funcionamento: Segunda a Sábado: 10h00 às 22h00 | Domingo e Feriados: 12h00 às 22h00"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "8. Multiplex Via Norte\n\nEndereço: Av. Pedro Teixeira, Manaus, AM (Shopping Via Norte)\n\nHorário de funcionamento: Segunda a Sábado: 10h00 às 22h00 | Domingo e Feriados: 12h00 às 22h00"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para voltar ao menu principal, digite menu."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

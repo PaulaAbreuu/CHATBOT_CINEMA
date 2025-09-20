@@ -1,0 +1,40 @@
+[
+  {
+    "id": "333ee1b5-2cfa-467e-bf29-ff534ad4d150",
+    "data": [
+      {
+        "text": "vida de ",
+        "userDefined": false
+      },
+      {
+        "text": "chuck",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "12412513-a1db-4c88-81f8-b93bd472080f",
+    "data": [
+      {
+        "text": "a vida de ",
+        "userDefined": false
+      },
+      {
+        "text": "chuck",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

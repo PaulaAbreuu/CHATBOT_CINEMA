@@ -1,0 +1,82 @@
+[
+  {
+    "id": "38672918-ebab-4dec-8f18-ec7bd45ce2ca",
+    "data": [
+      {
+        "text": "ver filmes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "75f17f50-1372-4dbf-a54b-d319a412a502",
+    "data": [
+      {
+        "text": "filmes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d1d7b19c-130f-4dfd-b3fa-444ae38383cd",
+    "data": [
+      {
+        "text": "cartaz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1e605b07-f2e5-4a1b-8526-a115cafbd96b",
+    "data": [
+      {
+        "text": "Filmes em cartaz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "390e0415-458e-4dc8-9fb4-614fe5eb1009",
+    "data": [
+      {
+        "text": "um",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0c56acd8-a667-4706-91bc-a62a1f9ecd75",
+    "data": [
+      {
+        "text": "1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

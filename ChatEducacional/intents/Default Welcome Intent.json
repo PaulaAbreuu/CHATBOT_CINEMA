@@ -1,0 +1,82 @@
+{
+  "id": "a50ce4f6-8374-45c5-b8e6-c3f253cd14b6",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "208e302c-4be0-4b11-843c-84cb56ddfc26",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "83b2d7d2-fa73-4a44-a46e-abf786491041",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fe1044c3-97d2-4859-bb97-0684be2ebada",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "🎬 Olá! Bem-vindo ao CineBot!\n\nMe chamo Ana e serei sua assistente virtual para tudo relacionado ao mundo do cinema.\n\nConfira o que posso fazer por você:\n\n📌 Opções disponíveis:\n\n1. Filmes em cartaz - Veja os lançamentos mais recentes nos cinemas e sessões disponíveis.\n\n2. Próximos lançamentos - Descubra os dias que estreiam nos próximos dias.\n\n3. Cinemas próximos - Receba uma lista dos cinemas disponíveis na sua cidade, para que você possa verificar qual é o mais próximo de você.\n\n4. Preços e promoções - Veja os valores atualizados dos ingressos, descubra dias com desconto, aproveite cupons, promoções especiais e benefícios com cartões ou aplicativos parceiros.\n\n🎟️ É só escolher uma opção digitando o número ou o nome, e a mágica do cinema começa!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

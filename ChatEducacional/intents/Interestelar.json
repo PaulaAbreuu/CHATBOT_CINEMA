@@ -1,0 +1,65 @@
+{
+  "id": "7089489a-e0e1-44e1-ac64-a19d575e1683",
+  "name": "Interestelar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Interestelar (Interstellar – Relançamento IMAX)\n\nSinopse: No futuro, a Terra enfrenta colapso ambiental e um grupo de astronautas viaja por um buraco de minhoca em busca de um novo lar para a humanidade.\n\nElenco: Matthew McConaughey, Anne Hathaway, Jessica Chastain.\n\nCaracterísticas: Ficção científica, drama, direção de Christopher Nolan; trilha sonora de Hans Zimmer; duração 2h49."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Sessões disponíveis - Hoje:\n\nUCI Manauara Shopping: 14h15, 17h00, 20h00\n\nCinépolis Shopping Ponta Negra: 20h00\n\nMillennium Shopping: 13h45, 16h30, 19h15, 22h00\n\nUCI Sumaúma Park Shopping: 14h00, 17h00, 20h00"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para retornar à seção de filmes em cartaz, digite a palavra filme."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para voltar ao menu principal, digite menu."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,84 @@
+[
+  {
+    "id": "db5ea3f7-e6f7-49be-9761-834b34ba28f7",
+    "data": [
+      {
+        "text": "dois",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6e9df695-812c-408e-a596-960f6fe36033",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9fba2a4c-09db-46cd-bdee-8b55011bc0ab",
+    "data": [
+      {
+        "text": "próximos lançamentos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "01c3e369-afcb-49d4-87b3-a401489f21a5",
+    "data": [
+      {
+        "text": "lançamentos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ceae0446-40a8-4fdb-8938-1c2a6c7fa0d6",
+    "data": [
+      {
+        "text": "ver as estreias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "710dadcb-0442-4323-851b-8317256953f1",
+    "data": [
+      {
+        "text": "estreias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

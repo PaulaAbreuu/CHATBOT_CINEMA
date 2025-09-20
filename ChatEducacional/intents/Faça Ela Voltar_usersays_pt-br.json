@@ -1,0 +1,28 @@
+[
+  {
+    "id": "d5b9b125-f938-4c5f-be54-e80518b7480c",
+    "data": [
+      {
+        "text": "faça ela",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6d3706c0-94f6-4a8f-b6a5-6b1d38379aa1",
+    "data": [
+      {
+        "text": "faça ela voltar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

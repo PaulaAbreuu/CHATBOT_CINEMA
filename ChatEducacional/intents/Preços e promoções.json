@@ -1,0 +1,60 @@
+{
+  "id": "06670cfe-2da5-487c-9ced-52b2077b8701",
+  "name": "Preços e promoções",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e20f1038-04b5-4755-9749-8c68e1ecf58a",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "💰 Valores médios em Manaus:\n\n🎟️ UCI Sumaúma  \n- 2D: R$ 24 (seg a qua) / R$ 33 (qui a dom)  \n- 3D: R$ 27 (seg a qua) / R$ 38 (qui a dom)  \n- Desconto com cartão UCI Unique  \n\n🎟️ Cinépolis Ponta Negra  \n- Tradicional: R$ 26 (seg a qua) / R$ 36 (qui a dom)  \n- VIP: até R$ 58 finais de semana  \n\n🎟️ Kinoplex Amazonas  \n- Matinê: R$ 22 a 24  \n- Regular: até R$ 30  \n\n🎉 Promoções  \n- Meia entrada garantida por lei  \n- Descontos em dias de semana  \n- Benefícios com cartões e apps parceiros"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para voltar ao menu principal, digite menu."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

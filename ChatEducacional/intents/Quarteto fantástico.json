@@ -1,0 +1,108 @@
+{
+  "id": "5db5b3e6-1923-4357-8541-721bd8a49f5e",
+  "name": "Quarteto fantástico",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cc25b9b0-46ca-415b-90a0-a2549e607bd9",
+          "name": "music-artist",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "value": "$music-artist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c74cce2b-b05b-47f5-9581-cf28bd05b861",
+          "name": "ordinal",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "value": "$ordinal",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f1b11b93-8621-4c53-b082-756c7e80cb3b",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Quarteto Fantástico: Primeiros Passos (2025)\n\n\nSinopse: Nova versão da Marvel Studios que introduz a primeira família de super-heróis no MCU, mostrando as origens de Reed Richards, Sue Storm, Johnny Storm e Ben Grimm após uma missão científica que os transforma em heróis.\n\nElenco: Pedro Pascal (Reed Richards), Vanessa Kirby (Sue Storm), Joseph Quinn (Johnny Storm), Ebon Moss-Bachrach (Ben Grimm).\n\nCaracterísticas: Ação, aventura, ficção científica; longa de heróis do Universo Marvel; duração aproximada de 2h05."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Sessões disponíveis - Hoje:\n\nUCI Manauara Shopping: 14h10, 16h40 (3D), 19h05, 21h45\n\nCinépolis Shopping Ponta Negra: 15h05, 17h35\n\nMillennium Shopping: 13h15, 16h00, 18h45, 21h30\n\nAmazonas Shopping (Kinoplex): 13h00, 15h30, 18h00, 20h30\n\nManaus Plaza Shopping: 14h00, 16h30, 19h00\n\nUCI Sumaúma Park Shopping: 14h15, 16h45, 19h15, 21h45"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para retornar à seção de filmes em cartaz, digite a palavra filme."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para voltar ao menu principal, digite menu."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

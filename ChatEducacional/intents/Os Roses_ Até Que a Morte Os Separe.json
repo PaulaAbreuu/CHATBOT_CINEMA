@@ -1,0 +1,94 @@
+{
+  "id": "f54a97b9-5f51-4fa2-b9f4-099fc0f8cd59",
+  "name": "Os Roses: Até Que a Morte Os Separe",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7316e603-2af2-4482-a7c2-0ab9481c1e75",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9b45e905-d81f-4bb0-989e-66d7f122a6f2",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Os Roses: Até Que a Morte Os Separe (The Roses, 2025)\n\nSinopse: Casal aparentemente perfeito enfrenta um divórcio turbulento que rapidamente se transforma em guerra aberta.\n\nElenco: Benedict Cumberbatch, Olivia Colman.\n\nCaracterísticas: Comédia dramática, humor ácido, baseado em livro homônimo; duração 1h50."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Sessões disponíveis - Hoje:\n\nUCI Manauara Shopping: 15h00, 17h30, 20h00\n\nCinépolis Shopping Ponta Negra: 15h45, 18h15, 21h00\n\nMillennium Shopping: 15h00, 17h30, 20h00\n\nUCI Sumaúma Park Shopping: 15h00, 17h30, 20h00"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para retornar à seção de filmes em cartaz, digite a palavra filme."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para voltar ao menu principal, digite menu."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

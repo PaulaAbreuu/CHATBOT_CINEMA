@@ -1,0 +1,67 @@
+{
+  "id": "d69751e2-ee3a-438a-8520-0ccb74582dd0",
+  "name": "O Retorno",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7976ddd1-94e6-464f-8f2d-1b1c715564a2",
+          "name": "music-artist",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "value": "$music-artist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O Retorno (2025)\n\nEstreia em Manaus: 04 de Setembro de 2025\n\nSinopse: Após 20 anos de ausência por conta da Guerra de Troia, Ulisses decide voltar para Ithaca, onde encontra a esposa feita refém e o filho ameaçado de morte por postulantes ao reinado.\n\nElenco: Ralph Fiennes , Juliette Binoche , Charlie Plummer , Ângela Molina.\n\nCaracterísticas: Drama, suspense."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para voltar ao menu principal, digite menu."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

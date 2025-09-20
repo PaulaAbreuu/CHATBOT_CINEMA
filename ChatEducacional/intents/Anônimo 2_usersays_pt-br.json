@@ -1,0 +1,58 @@
+[
+  {
+    "id": "af5201d7-a7ac-4c88-96a8-430280737007",
+    "data": [
+      {
+        "text": "anônimo 2",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "745dd7fe-8c0a-49bc-9db5-13bc267b84ca",
+    "data": [
+      {
+        "text": "anônimo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "014a8a10-6821-4981-8a58-f16f19826a7a",
+    "data": [
+      {
+        "text": "anonimo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d4494e08-4a7a-4b8f-b189-3575b4ef5d50",
+    "data": [
+      {
+        "text": "o anonimo",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

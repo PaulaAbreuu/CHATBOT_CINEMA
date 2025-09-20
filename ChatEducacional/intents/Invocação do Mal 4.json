@@ -1,0 +1,74 @@
+{
+  "id": "8f2d360f-c9fa-4425-876b-487dd95d0ba0",
+  "name": "Invocação do Mal 4",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c1593748-ec06-4db7-900b-7e5957ff75dc",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d49078c9-41b8-4de4-bb78-6e04e0a63826",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Invocação do Mal 4 (The Conjuring 4)\n\nEstreia em Manaus: 04 de Setembro de 2025\n\nSinopse: O filme marca o desfecho da franquia de terror iniciada em 2013 por James Wan. Os filmes são inspirados nas investigações sobrenaturais do famoso casal de paranormais norte-americanos Ed e Lorraine Warren, interpretados por Vera Farmiga e Patrick Wilson. Neste último capítulo, os Warren enfrentam mais um caso aterrorizante, desta vez envolvendo entidades misteriosas que desafiam sua experiência. Ed e Lorraine se veem obrigados a encarar seus maiores medos, colocando suas vidas em risco em uma batalha final contra forças malignas. O filme promete encerrar a história dos investigadores com suspense e momentos de tensão, consolidando a franquia como uma das mais populares do gênero. Além dos sustos, o longa também explora o relacionamento do casal, mostrando sua força emocional diante das adversidades.\n\nElenco: Vera Farmiga, Patrick Wilson, Mia Tomlinson, Ben Hardy\n\nCaracterísticas: Terror psicológico baseado em eventos reais; classificação indicativa 16 anos."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para voltar ao menu principal, digite menu."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

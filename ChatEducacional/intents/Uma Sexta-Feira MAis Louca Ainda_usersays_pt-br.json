@@ -1,0 +1,78 @@
+[
+  {
+    "id": "7fa62396-0bb2-4d96-99e9-7c31c1ffdab0",
+    "data": [
+      {
+        "text": "Uma sexta",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " mais louca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "156aeb51-068a-4024-ae73-b68cabd66eba",
+    "data": [
+      {
+        "text": "sexta",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " louca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "603b2636-fcd4-4ef4-9426-c8fac876c9fb",
+    "data": [
+      {
+        "text": "sexta feira",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " muito louca",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c367242d-e881-459e-bf62-580019c9b7f4",
+    "data": [
+      {
+        "text": "sexta feira",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " mais louca ainda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

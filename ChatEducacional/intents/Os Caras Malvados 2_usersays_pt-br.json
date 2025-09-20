@@ -1,0 +1,85 @@
+[
+  {
+    "id": "a6352188-d031-49f8-aa55-b95cf5463443",
+    "data": [
+      {
+        "text": "caras mal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "250c7fcb-5e11-41a7-be84-00914ed8fbd8",
+    "data": [
+      {
+        "text": "malvados ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "74291b09-0c48-4fc1-b886-eb7f0075253c",
+    "data": [
+      {
+        "text": "caras malvados",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "85a8513e-aceb-4d5a-ab48-9234ce809770",
+    "data": [
+      {
+        "text": "caras malvados ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "244e2e96-460d-4202-8ce8-0c3e86fce285",
+    "data": [
+      {
+        "text": "os caras malvados ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

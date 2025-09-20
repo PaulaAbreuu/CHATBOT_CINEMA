@@ -1,0 +1,60 @@
+{
+  "id": "0948a9ae-b145-4cd5-befe-a5a0547f0dd6",
+  "name": "A Vida de Chuck",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eb057dae-751f-438c-a348-0a774b32d8d3",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A Vida de Chuck (The Life of Chuck, 2025)\n\nEstreia em Manaus: 04 de Setembro de 2025\n\nSinopse: Baseado no conto de Stephen King, acompanha a trajetória de Charles \"Chuck\" Krantz, interpretado por Tom Hiddleston. A trama combina diversos gêneros para contar, de maneira sensível e original, os momentos marcantes da vida. Ao longo do enredo, o personagem principal vivencia o amor, enfrenta o luto e mergulha nas complexidades que definem a natureza humana.\n\nElenco: Tom Hiddleston, Mark Hamill, Chiwetel Ejiofor.\n\nCaracterísticas: Drama fantástico, narrativa experimental."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para voltar ao menu principal, digite menu."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": "0c5093c8-aac3-4328-a9e9-b4394ca54270",
+  "name": "A ùltima Ceia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5c8847da-3c7c-46d3-953c-ce4f398fd2c3",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A Última Ceia\n\nEstreia em Manaus: 04 de Setembro de 2025\n\nSinopse: Nos dias que antecedem um dos momentos mais marcantes da humanidade, Jesus reúne seus discípulos para a Última Ceia, um momento de comunhão que se tornará eterno. Entre palavras de amor e despedida, Ele anuncia o sacrifício que mudará a história, deixando ensinamentos que ecoarão para sempre. Enquanto a fé é fortalecida, a sombra da traição paira sobre a mesa, mas nem mesmo a dor pode apagar a promessa de redenção.\n\nElenco: Billy Bob Thornton, Halle Berry, Heath Ledger, Sean Combs, Peter Boyle.\n\nCaracterísticas: Drama histórico bíblico"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para voltar ao menu principal, digite menu."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

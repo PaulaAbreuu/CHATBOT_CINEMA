@@ -1,0 +1,65 @@
+{
+  "id": "6aed74c4-e7c9-47bc-8975-cdb652e87af1",
+  "name": "Faça Ela Voltar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Faça Ela Voltar (Bring Her Back, 2025)\n\n\nSinopse: Thriller dramático em que um pai desesperado tenta resgatar sua filha desaparecida, enfrentando redes de tráfico e segredos familiares.\n\nElenco: Joel Kinnaman, Noomi Rapace.\n\nCaracterísticas: Suspense, drama policial; ambientação urbana; duração estimada em 1h50."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Sessões disponíveis - Hoje:\n\nCinépolis Shopping Ponta Negra: 21h45\n\nMillennium Shopping: 15h15, 18h00, 20h45\n\nUCI Manauara Shopping: 15h15, 17h45, 20h15"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para retornar à seção de filmes em cartaz, digite a palavra filme."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para voltar ao menu principal, digite menu."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

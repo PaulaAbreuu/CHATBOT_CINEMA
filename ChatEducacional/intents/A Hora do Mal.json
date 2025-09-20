@@ -1,0 +1,94 @@
+{
+  "id": "a50da315-0dab-4166-9090-13dff210adbb",
+  "name": "A Hora do Mal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "97e51bc8-57a4-4fe5-ae5f-13125b7a43ec",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9ab3586e-3ceb-4901-bab4-f417be431ac6",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A Hora do Mal (The Deliverance, 2025)\n\nSinopse: Suspense de terror psicológico inspirado em eventos reais, acompanha uma família assombrada por forças malignas após se mudar para uma nova casa.\n\nElenco: Andra Day, Mo’Nique, Glenn Close.\n\nCaracterísticas: Terror sobrenatural; baseado em relatos paranormais; duração 1h55."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Sessões disponíveis - Hoje:\n\nUCI Manauara Shopping: 15h15, 17h45, 20h15\n\nCinépolis Shopping Ponta Negra: 19h00\n\nMillennium Shopping: 15h45, 18h15, 20h45\n\nUCI Sumaúma Park Shopping: 15h00, 17h30, 20h00"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para retornar à seção de filmes em cartaz, digite a palavra filme."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para voltar ao menu principal, digite menu."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

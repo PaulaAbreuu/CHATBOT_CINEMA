@@ -1,0 +1,60 @@
+{
+  "id": "17f49271-7b94-4c34-a4af-66310af8601e",
+  "name": "Anônimo 2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2f6b9f41-7229-42ed-8815-4163cf2e749a",
+          "name": "music-artist",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "value": "$music-artist",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Anônimo 2 (Nobody 2, 2025)\n\nEstreia em Manaus: 21 de agosto de 2025\n\nSinopse: Continuação do filme de ação “Anônimo” (2021), trazendo Bob Odenkirk de volta como um homem comum com passado letal.\n\nElenco: Bob Odenkirk, Connie Nielsen.\n\nCaracterísticas: Ação violenta, suspense, comédia de humor negro; estreia mundial em 2025."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para voltar ao menu principal, digite menu."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

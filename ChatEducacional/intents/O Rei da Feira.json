@@ -1,0 +1,84 @@
+{
+  "id": "112f54d6-2e47-4706-a2ae-240c2ee94e6d",
+  "name": "O Rei da Feira",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "31e36a1f-d38c-42aa-85ae-43212552f005",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fb0a383e-8f7c-4710-ad4a-2561e62661b3",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O Rei da Feira (2025)\n\nEstreia em Manaus: 04 de Setembro de 2025\n\nSinopse: Quando um feirante é misteriosamente assassinado, entra em cena Monarca (Leandro Hassum), um detetive nada convencional, que mistura seu faro investigativo com dons paranormais... e um certo talento para se meter em confusão. Ao lado do espírito tagarela da própria vítima, o Bode, ele vai encarar uma investigação cheia de barracos, fofocas e revelações no meio da feira mais agitada do Brasil.\n\nElenco: Leandro Hassum, Pedro Wagner, Luana Martau, Talita Younan, Daniela Fontan.\n\nCaracterísticas: Comédia popular, sátira social."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Sessões disponíveis - Hoje:\n\nUCI Manauara Shopping: 14h15 , 17h00 , 20h00 \n\nMultiplex Via Norte: 16h20 , 19h00 , 19h20 , 21h40 , 22h00"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para voltar ao menu principal, digite menu."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

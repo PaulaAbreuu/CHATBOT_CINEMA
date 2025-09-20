@@ -1,0 +1,85 @@
+{
+  "id": "32738cb8-aef7-455a-9655-7ad8458504dd",
+  "name": "Os Caras Malvados 2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d6cd5154-175b-42f0-b3de-d1c88dbc7d97",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f3b4220d-3f9c-43cb-b771-35a6b9cf49aa",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "5. Os Caras Malvados 2 (The Bad Guys 2, 2025)\n\nSinopse: Sequência da animação da DreamWorks em que os \"vilões reformados\" precisam salvar a cidade de uma nova ameaça enquanto lidam com a fama de heróis.\n\nDubladores (EUA): Sam Rockwell, Awkwafina, Anthony Ramos, Marc Maron.\n\nCaracterísticas: Animação, aventura, comédia; indicado para toda a família; duração 1h40.",
+            "Sessões disponíveis - Hoje:\n\nUCI Manauara Shopping: 13h45, 16h15, 18h45, 21h15\n\nMillennium Shopping: 14h00, 16h30, 19h00, 21h30"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para retornar à seção de filmes em cartaz, digite a palavra filme."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Para voltar ao menu principal, digite menu."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

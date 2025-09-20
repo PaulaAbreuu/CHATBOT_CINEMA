@@ -1,0 +1,59 @@
+[
+  {
+    "id": "a779ca18-7349-4164-9b64-bc0a1dedd34b",
+    "data": [
+      {
+        "text": "roses",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " até que a morte os separe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ad037301-3c0e-47d6-8ca8-eaf0df10ccdc",
+    "data": [
+      {
+        "text": "os ",
+        "userDefined": false
+      },
+      {
+        "text": "rosas",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dffc1d05-0788-4fc8-a3de-b4ca7673c6c2",
+    "data": [
+      {
+        "text": "os ",
+        "userDefined": false
+      },
+      {
+        "text": "roses",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

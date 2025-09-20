@@ -1,0 +1,84 @@
+[
+  {
+    "id": "e39551b1-a03c-48c3-8ae1-0539d28c5168",
+    "data": [
+      {
+        "text": "quatro",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "52d906e0-72a2-4b68-881a-5b93c8135316",
+    "data": [
+      {
+        "text": "4",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5319d841-c0e6-41fe-8402-f2a1dd25e356",
+    "data": [
+      {
+        "text": "valores",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3856be79-e02f-4327-9bee-8b8d59ab04a3",
+    "data": [
+      {
+        "text": "preços e promoções",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3e8d0c9e-d3f2-4fc9-8ba2-c1e1b2433b78",
+    "data": [
+      {
+        "text": "promoções",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "45654ff3-3245-44ab-ad32-fa7fb2eb7cf1",
+    "data": [
+      {
+        "text": "preços",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

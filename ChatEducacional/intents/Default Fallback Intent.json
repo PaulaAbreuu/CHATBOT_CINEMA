@@ -1,0 +1,36 @@
+{
+  "id": "c4a9ae80-7a1e-4bb6-967a-79889e3f82a9",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "❗ Desculpe, não compreendi sua mensagem.\n\nPara ir ao menu e consultar as opções disponíveis, por favor digite menu. 🎬\n\nEm seguida, escolha uma opção válida digitando o número correspondente ou o nome da opção, assim poderei ajudá-lo da melhor forma.",
+            "❗ Não consegui entender sua mensagem.\n\nPara acessar o menu e consultar as opções disponíveis, por favor digite menu. 🎬\n\nEm seguida, responda escolhendo uma opção válida, digitando o número correspondente ou o nome da opção."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

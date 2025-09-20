@@ -1,0 +1,47 @@
+[
+  {
+    "id": "44d76da8-79e2-4813-a0df-d43077b9ace2",
+    "data": [
+      {
+        "text": "os",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ladroes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "51940fa3-ed56-4336-a34c-1f77bb1c944a",
+    "data": [
+      {
+        "text": "ladroes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c7de4a71-8232-4d4e-aa61-0ac328352020",
+    "data": [
+      {
+        "text": "Ladrões",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

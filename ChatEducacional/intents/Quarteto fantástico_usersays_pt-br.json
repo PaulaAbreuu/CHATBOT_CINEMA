@@ -1,0 +1,65 @@
+[
+  {
+    "id": "e5f1e7e9-93ca-4e03-903f-5dd7cf06417e",
+    "data": [
+      {
+        "text": "Quarteto Fantástico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "45ad228a-110b-4753-b84f-89ab6fc9f22d",
+    "data": [
+      {
+        "text": "Quarteto",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " Fantástico: ",
+        "userDefined": false
+      },
+      {
+        "text": "Primeiros",
+        "meta": "@sys.ordinal",
+        "alias": "ordinal",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Passos",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e806df56-f014-4336-a38b-7cdfeabe024f",
+    "data": [
+      {
+        "text": "Quarteto",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

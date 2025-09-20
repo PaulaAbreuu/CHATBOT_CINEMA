@@ -1,0 +1,64 @@
+[
+  {
+    "id": "c01f24ca-a238-4007-bf84-d61d4d8d5968",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "hora",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " mal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "317b6ace-44f7-4af5-b7b7-6da5bc4e1126",
+    "data": [
+      {
+        "text": "hora",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " mal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "f554e5ce-e96c-41a1-9ec2-d76f7bc13557",
+    "data": [
+      {
+        "text": "interestelares",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "24714ddb-93bc-446c-a70c-c8520df87983",
+    "data": [
+      {
+        "text": "interestelar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

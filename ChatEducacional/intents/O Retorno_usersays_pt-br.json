@@ -1,0 +1,30 @@
+[
+  {
+    "id": "173c4e37-7faf-4d9e-8bae-9bb2bdecb3e4",
+    "data": [
+      {
+        "text": "o retorno",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "96cbcf3a-9f17-42ea-8c60-a3676975453d",
+    "data": [
+      {
+        "text": "retorno",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]
